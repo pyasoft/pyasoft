@@ -4,10 +4,10 @@
 
 ## Sobre mi
 
-- 😄 .NET developer
-- 📲 Mobile developer
-- ⚡ PYTHON developer
-- 🔭 WEB developer
+- 💻 .NET developer
+- 📱 Mobile developer
+- 🐍 PYTHON developer
+- 🖥️ WEB developer
 
 <br>
 
